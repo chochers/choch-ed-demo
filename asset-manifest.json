@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a7c9d41.css",
+    "main.js": "/static/js/main.96a79bb4.js",
+    "static/media/module-three.png": "/static/media/module-three.c8e62f68274b63f979dd.png",
+    "static/media/module-two.png": "/static/media/module-two.c5d633da2c8470a54295.png",
+    "static/media/module-one.png": "/static/media/module-one.11a595ef1da03a85fb9f.png",
+    "static/media/question.png": "/static/media/question.fe0845f4d7521d15eaf3.png",
+    "static/media/js.jpg": "/static/media/js.920e1fb60d9efc147c3e.jpg",
+    "static/media/Rocket-main.png": "/static/media/Rocket-main.a95e9734531091ad1299.png",
+    "static/media/stars.png": "/static/media/stars.a9ceb8e10ea3cd54317f.png",
+    "static/media/py.png": "/static/media/py.6753356676bc2c3c694f.png",
+    "static/media/progress-card-main.png": "/static/media/progress-card-main.34d341a2c8dac8d56f83.png",
+    "static/media/planet-home.svg": "/static/media/planet-home.6e5bf543c757a0d73e67d70ce236ad37.svg",
+    "index.html": "/index.html",
+    "main.3a7c9d41.css.map": "/static/css/main.3a7c9d41.css.map",
+    "main.96a79bb4.js.map": "/static/js/main.96a79bb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7c9d41.css",
+    "static/js/main.96a79bb4.js"
+  ]
+}
